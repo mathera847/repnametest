@@ -1,0 +1,1 @@
+window.location.replace(``.concat(`http://google.com`))
